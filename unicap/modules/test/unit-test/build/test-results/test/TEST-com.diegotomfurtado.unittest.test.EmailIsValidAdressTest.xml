@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.diegotomfurtado.unittest.test.EmailIsValidAdressTest" tests="14" skipped="0" failures="0" errors="0" timestamp="2019-10-30T21:05:18" hostname="Diegos-MacBook-Pro.local" time="0.01">
+  <properties/>
+  <testcase name="isValidEmail_InvalidListToAddress_True" classname="com.diegotomfurtado.unittest.test.EmailIsValidAdressTest" time="0.001"/>
+  <testcase name="isValidEmail_InvalidFromAddress_False" classname="com.diegotomfurtado.unittest.test.EmailIsValidAdressTest" time="0.001"/>
+  <testcase name="isValidUserAddress_containsUnderline_True" classname="com.diegotomfurtado.unittest.test.EmailIsValidAdressTest" time="0.001"/>
+  <testcase name="isValidUserAddress_withoutUser_False" classname="com.diegotomfurtado.unittest.test.EmailIsValidAdressTest" time="0.0"/>
+  <testcase name="isValidUserAdress_containsTrace_True" classname="com.diegotomfurtado.unittest.test.EmailIsValidAdressTest" time="0.001"/>
+  <testcase name="isValidEmail_CreationEmptyDate_False" classname="com.diegotomfurtado.unittest.test.EmailIsValidAdressTest" time="0.0"/>
+  <testcase name="isValidEmail_True" classname="com.diegotomfurtado.unittest.test.EmailIsValidAdressTest" time="0.0"/>
+  <testcase name="isValidDomain_dobleDotWithouSequence_True" classname="com.diegotomfurtado.unittest.test.EmailIsValidAdressTest" time="0.001"/>
+  <testcase name="isvalidDomain_numbersAndDotAndLetters_True" classname="com.diegotomfurtado.unittest.test.EmailIsValidAdressTest" time="0.0"/>
+  <testcase name="isvalidDomain_dobleSequenceDot_False" classname="com.diegotomfurtado.unittest.test.EmailIsValidAdressTest" time="0.0"/>
+  <testcase name="isValidUserAddress_containsMixCharacters_True" classname="com.diegotomfurtado.unittest.test.EmailIsValidAdressTest" time="0.001"/>
+  <testcase name="isValidUserAddress_containsAlphanumericsNumbersSpecialCharacters_True" classname="com.diegotomfurtado.unittest.test.EmailIsValidAdressTest" time="0.0"/>
+  <testcase name="isValidUserAddress_containsDot_True" classname="com.diegotomfurtado.unittest.test.EmailIsValidAdressTest" time="0.001"/>
+  <testcase name="isValidEmail_CreationDate_True" classname="com.diegotomfurtado.unittest.test.EmailIsValidAdressTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

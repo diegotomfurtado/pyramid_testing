@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.diegotomfurtado.unittest.test.EmailAccountTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2019-10-30T21:05:18" hostname="Diegos-MacBook-Pro.local" time="0.005">
+  <properties/>
+  <testcase name="isPasswordExpiration_after91days_True" classname="com.diegotomfurtado.unittest.test.EmailAccountTest" time="0.004"/>
+  <testcase name="isPasswordExpiration_after90days_False" classname="com.diegotomfurtado.unittest.test.EmailAccountTest" time="0.001"/>
+  <testcase name="isPasswordExpiration_89days_False" classname="com.diegotomfurtado.unittest.test.EmailAccountTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

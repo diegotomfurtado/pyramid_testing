@@ -1,0 +1,7 @@
+/.settings/
+/.blade/
+/.metadata/
+/.gradle/
+/build
+*.project
+*.classpath
